@@ -1,0 +1,38 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif, Arial;
+    text-align: center;
+    background-color: black;
+    color:aliceblue;
+
+}
+header {
+  text-align: center;
+  background-color: rgba(32, 79, 210, 0.395);
+  padding: 20px;;
+  margin: 0;
+  border-bottom: 2px solid rgb(244, 244, 244);
+}
+
+#messages {
+    border: 1px solid rgb(255, 255, 255);
+    width: 600px;
+    text-align: center;
+    background-color: rgba(32, 79, 210, 0.395);
+    padding-right: 10px;
+    margin-top: 40px;
+
+}
+
+.container {
+    position: relative;
+    left: 355px;
+}
+
+ul li {
+    list-style: none;
+    list-style-position: inside;
+    margin: 10px;
+    padding: 5px;
+}
